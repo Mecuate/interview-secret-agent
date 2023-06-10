@@ -1,0 +1,1 @@
+export const _00 = 'prueba cero'

@@ -1,0 +1,1 @@
+export const _02 = 'prueba dos'
