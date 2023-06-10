@@ -1,1 +1,0 @@
-export const _05 = 'prueba cinco'

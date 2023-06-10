@@ -1,0 +1,47 @@
+.p2 {
+    color: coral;
+}
+
+.logo-netflix{}
+.p1-black{
+    display: block;
+    background: #000000;
+    border-radius: 50%;
+    width: 280px;
+    height: 40px;
+
+    position: absolute;
+    left: 50px;
+    bottom: 40px;
+    z-index: 500;
+    
+}
+.p1-n1{
+    width: 80px;
+    height: 290px;
+    display: block;
+    background: #db0404;
+    position: absolute;
+    left: 90px;
+    top: 180px;
+}
+.p1-n2{
+    width: 80px;
+    height: 290px;
+    display: block;
+    background: #f70a0a;
+    position: absolute;
+    left: 150px;
+    top: 180px;
+    transform: skewX(22deg);
+    z-index: 10;
+}
+.p1-n3{
+    width: 80px;
+    height: 290px;
+    display: block;
+    background: #db0404;
+    position: absolute;
+    left: 208px;
+    top: 180px;
+}
